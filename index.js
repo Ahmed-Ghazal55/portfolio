@@ -4,7 +4,7 @@ $(document).ready(function(){
         nextArrow: $('.control-arrows .slick-right'),
         arrows: true,
         dots: false,
-        infinite: false,
+        infinite: true,
         autoplay: true,
         autoplaySpeed: 1000,
         speed: 3000,
