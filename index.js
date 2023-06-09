@@ -1,12 +1,13 @@
-$(document).ready(function () {
-
+$(document).ready(function(){
     $('.responsive').slick({
         prevArrow: $('.control-arrows .slick-left'),
         nextArrow: $('.control-arrows .slick-right'),
         arrows: true,
         dots: false,
         infinite: false,
-        speed: 300,
+        autoplay: true,
+        autoplaySpeed: 1000,
+        speed: 3000,
         slidesToShow: 2,
         slidesToScroll: 2,
         responsive: [
