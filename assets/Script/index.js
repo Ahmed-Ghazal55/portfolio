@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
     $('.responsive').slick({
         prevArrow: $('.control-arrows .slick-left'),
         nextArrow: $('.control-arrows .slick-right'),
@@ -40,4 +41,4 @@ $(document).ready(function(){
             // instead of a settings object
         ]
     });
-})
+});
