@@ -54,7 +54,7 @@ nav.fixed-top :where(.navbar-brand, .bi-list, .nav-link):hover {
     justify-content: start;
     align-items: flex-start;
 
-    background: url(assets/imgs/background/pexels-bess-hamiti-36487.jpg) no-repeat;
+    background: url(../imgs/background/pexels-bess-hamiti-36487.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
