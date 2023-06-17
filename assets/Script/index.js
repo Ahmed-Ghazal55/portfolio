@@ -8,7 +8,7 @@ $(document).ready(function(){
         infinite: true,
         Infinity: true,
         autoplay: true,
-        autoplaySpeed: 1200,
+        autoplaySpeed: 1500,
         speed: 350,
         slidesToShow: 2,
         slidesToScroll: 2,
