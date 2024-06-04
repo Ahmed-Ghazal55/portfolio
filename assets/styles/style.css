@@ -3,21 +3,23 @@
 
 
 
-/* 
+
+ /* * {
     font-family: 'Cairo', sans-serif;
     font-family: 'Caveat', cursive;
     font-family: 'Courgette', cursive;
     font-family: 'Dancing Script', cursive;
     font-family: 'Overpass', sans-serif;
     font-family: 'Roboto', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif; 
-*/
+    font-family: 'Source Sans Pro', sans-serif;
+ }  */
+
 
 * {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: 'Courgette', cursive;
+    font-family: 'Roboto';
     scroll-behavior: smooth;
 }
 nav.navbar {
@@ -136,7 +138,7 @@ i.fa.fa-github {
 }
 .services p {
     font-size: 1.2em;
-    color: #2f1075;
+    color: #000;
 }
 .services .services-cards {
     width: 100%;
