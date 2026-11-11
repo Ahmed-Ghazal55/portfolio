@@ -17,7 +17,7 @@ Visit http://localhost:8000/. Some browser APIs and form behavior may require an
 - Navigation, sections, responsive layout, image paths, carousel and contact form behavior.
 - Accessibility: headings, labels, focus indicators, keyboard navigation, contrast and alternative text.
 - Dependency and external asset provenance; remove unneeded duplicated libraries only after browser comparison.
-- Audit `assets/Script/portfolio-3.8.zip` before downloading, running or redistributing it. Its provenance has not been verified.
+- The previously tracked unverified ZIP archives are proposed for removal from the current tree; review the security cleanup PR before release.
 - Add recent, verified screenshots and a clear feature list.
 - Ensure no personal information, secrets or tracking endpoints are accidentally committed.
 
