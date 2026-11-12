@@ -17,7 +17,7 @@ Visit http://localhost:8000/. Some browser APIs and form behavior may require an
 - Navigation, sections, responsive layout, image paths, carousel and contact form behavior.
 - Accessibility: headings, labels, focus indicators, keyboard navigation, contrast and alternative text.
 - Dependency and external asset provenance; remove unneeded duplicated libraries only after browser comparison.
-- Audit `assets/Script/portfolio-3.8.zip` before downloading, running or redistributing it. Its provenance has not been verified.
+- Unverified ZIP archives previously tracked in `.vscode/` and `assets/Script/` were removed from the current branch; historical commits still contain them. Do not retrieve or execute untrusted historical archives.
 - Add recent, verified screenshots and a clear feature list.
 - Ensure no personal information, secrets or tracking endpoints are accidentally committed.
 
